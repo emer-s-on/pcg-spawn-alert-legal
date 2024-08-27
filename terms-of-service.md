@@ -54,7 +54,7 @@ Welcome to **PCG Spawn Alert**. These Terms of Service ("Terms") govern your use
 
 ## 2. Description of Service
 
-**PCG Spawn Alert** is an app integrated with Discord that allows users to monitor the appearance of specific Pokémon on Twitch channels. The app notifies users in their Discord servers whenever a monitored Pokémon appears on one of the configured channels.
+**PCG Spawn Alert** is an app integrated with Discord that allows users to monitor the appearance of specific Pokémon on Twitch channels. The app notifies users in their Discord servers whenever a monitored Pokémon appears on Twitch.
 
 ## 3. Eligibility
 
